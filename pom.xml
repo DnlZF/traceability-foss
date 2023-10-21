@@ -70,7 +70,7 @@ SPDX-License-Identifier: Apache-2.0
         <ascii-doctor-j-diagram.version>2.2.9</ascii-doctor-j-diagram.version>
         <ascii-dcotor-j.version>2.5.8</ascii-dcotor-j.version>
         <auth-0-java-jwt.version>4.4.0</auth-0-java-jwt.version>
-        <feign.version>12.3</feign.version>
+        <feign.version>13.0</feign.version>
         <jakarta-ws-rs.version>3.1.0</jakarta-ws-rs.version>
         <jruby.version>9.4.3.0</jruby.version>
         <resilience4j.version>2.1.0</resilience4j.version>
